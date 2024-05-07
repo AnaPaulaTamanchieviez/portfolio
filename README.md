@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+Check out everything I learned from this project in the attached file: What I Learned.pdf.
+
 ## 💻 Projeto
 
 The portfolio is a project to be used as a code repository.
