@@ -7,7 +7,7 @@ function toggleMode() {
   //   html.classList.add("light")
   // }
 
-  // podemos fazer do modo acima, porém em JS temos o atalho abaixo
+  // instead doing an if/else, we have a toggle method to help us:
 
   html.classList.toggle("light")
 
